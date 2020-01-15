@@ -1,5 +1,4 @@
 1. Decide what type of pizza we want 
-2. Find phone 
-Call place
-Order pizza
-ljhwebfhjw
+2. New Button
+3. New button test
+4. new color
