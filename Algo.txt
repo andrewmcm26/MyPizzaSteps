@@ -3,3 +3,4 @@
 3. New button test
 4. new color
 5. create a new branch on github
+6. compare different branches
